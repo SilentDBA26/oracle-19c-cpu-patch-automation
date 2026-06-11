@@ -23,7 +23,7 @@ This engine completely eliminates human error during complex maintenance windows
 
 The package is fully generic, cyclical, and driven by a simple centralized configuration layout:
 
-```bash
+
 # 1. Simulate/Dry-Run your entire quarterly environment setup
 ./oracle_cpu_patch.sh -c patch.conf -s
 
@@ -33,8 +33,6 @@ The package is fully generic, cyclical, and driven by a simple centralized confi
 # 3. Distributed Execution (Advanced Operations)
 ./oracle_cpu_patch.sh -c patch.conf --phase home      # Binary only
 ./oracle_cpu_patch.sh -c patch.conf --phase db        # Datapatch & Recompilation
-
----
 
 ---
 
