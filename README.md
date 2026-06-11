@@ -34,12 +34,17 @@ The package is fully generic, cyclical, and driven by a simple centralized confi
 ./oracle_cpu_patch.sh -c patch.conf --phase home      # Binary only
 ./oracle_cpu_patch.sh -c patch.conf --phase db        # Datapatch & Recompilation
 
+---
+
 ## 📦 Bundle Contents
 ​When acquiring the enterprise package, you receive a production-tested bundle:
 ​oracle_cpu_patch.sh - The master shell automation engine.
 ​patch.conf - A clean, template-driven configuration properties file (reusable for future cycles like 2026-07, 2026-10, etc.).
 ​README.md - Complete detailed architectural setup and setup manual.
-​🛒 Get the Full Production Package
-​The core script is proprietary enterprise software. You can instantly acquire a Single-DBA / Developer License and download the deployment-ready bundle via our secure merchant portal:
-​👉 Download Oracle 19c Patch Automation Bundle Here
-​For multi-node RAC architectures, Data Guard high-availability environments, or custom corporate team licensing, please contact our global operations desk at: silentdba.tech@gmail.com
+​🛒 Production Package & Download
+​📥 OFFICIAL MERCHANT PORTAL
+​The core automation framework is proprietary enterprise software. You can instantly acquire a Single-DBA / Developer License and download the deployment-ready bundle via our secure payment gateway:
+​🔗 CLICK HERE TO DOWNLOAD THE ORACLE 19c PATCH AUTOMATION BUNDLE
+​Secure processing powered by Lemon Squeezy. Immediate file delivery upon checkout.
+​💼 Support & Corporate Licensing
+​For multi-node RAC architectures, Data Guard high-availability environments, or custom corporate team licensing, please contact our global operations desk directly at: silentdba.tech@gmail.com
