@@ -34,7 +34,7 @@ The package is fully generic, cyclical, and driven by a simple centralized confi
 ./oracle_cpu_patch.sh -c patch.conf --phase home      # Binary only
 ./oracle_cpu_patch.sh -c patch.conf --phase db        # Datapatch & Recompilation
 
-📦 Bundle Contents
+## 📦 Bundle Contents
 ​When acquiring the enterprise package, you receive a production-tested bundle:
 ​oracle_cpu_patch.sh - The master shell automation engine.
 ​patch.conf - A clean, template-driven configuration properties file (reusable for future cycles like 2026-07, 2026-10, etc.).
